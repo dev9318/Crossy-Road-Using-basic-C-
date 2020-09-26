@@ -1,2 +1,2 @@
 # Crossy-Road-Using-basic-C-
-Crossr Road on turbo C++
+Crossy Road on turbo C++
